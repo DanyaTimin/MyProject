@@ -4,5 +4,5 @@ line a2
 line a3
 line a4
 line a4.2
-line a7777
-line a8888 added by lzgzrv
+
+line a8888 added by lzgzrv, previous line was deleted
